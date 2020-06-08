@@ -1,3 +1,4 @@
 {
-  "mongoURL": "mongodb+srv://Ismail:Ismail@contactkeeper-vd4g4.mongodb.net/test?retryWrites=true&w=majority"
+  "mongoURL": "mongodb+srv://Ismail:Ismail@contactkeeper-vd4g4.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret": "secret"
 }
